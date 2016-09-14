@@ -1,0 +1,2 @@
+c:\users\s.gogishvili\documents\visual studio 2015\Projects\TestForGit\TestForGit\bin\Debug\TestForGit.exe.config
+C:\Users\s.gogishvili\Documents\Visual Studio 2015\Projects\TestForGit_l1\TestForGit\TestForGit\bin\Debug\TestForGit.exe.config
