@@ -11,6 +11,7 @@ namespace TestForGit
         static void Main(string[] args)
         {
             int k = 8;
+            int m = 9;
         }
     }
 }

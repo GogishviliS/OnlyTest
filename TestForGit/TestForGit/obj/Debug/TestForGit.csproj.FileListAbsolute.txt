@@ -1,2 +1,8 @@
 c:\users\s.gogishvili\documents\visual studio 2015\Projects\TestForGit\TestForGit\bin\Debug\TestForGit.exe.config
 C:\Users\s.gogishvili\Documents\Visual Studio 2015\Projects\TestForGit_l1\TestForGit\TestForGit\bin\Debug\TestForGit.exe.config
+C:\Users\s.gogishvili\Documents\GitHub\OnlyTest\TestForGit\TestForGit\bin\Debug\TestForGit.exe.config
+C:\Users\s.gogishvili\Documents\GitHub\OnlyTest\TestForGit\TestForGit\bin\Debug\TestForGit.exe
+C:\Users\s.gogishvili\Documents\GitHub\OnlyTest\TestForGit\TestForGit\bin\Debug\TestForGit.pdb
+C:\Users\s.gogishvili\Documents\GitHub\OnlyTest\TestForGit\TestForGit\obj\Debug\TestForGit.csprojResolveAssemblyReference.cache
+C:\Users\s.gogishvili\Documents\GitHub\OnlyTest\TestForGit\TestForGit\obj\Debug\TestForGit.exe
+C:\Users\s.gogishvili\Documents\GitHub\OnlyTest\TestForGit\TestForGit\obj\Debug\TestForGit.pdb
