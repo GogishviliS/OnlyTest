@@ -12,6 +12,7 @@ namespace TestForGit
         {
             int k = 8;
             int m = 9;
+            Console.WriteLine(k + m);
         }
     }
 }
